@@ -1,2 +1,1 @@
-# carp
-python
+print('hello,world')
